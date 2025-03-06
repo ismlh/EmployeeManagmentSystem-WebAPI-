@@ -14,5 +14,5 @@ Projects
 Users & Roles
 This project enhances security, scalability, and efficiency in managing employee-related data.
 
-I’d love to hear your thoughts and feedback! 🚀
+
 
