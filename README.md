@@ -14,5 +14,11 @@ Projects
 Users & Roles
 This project enhances security, scalability, and efficiency in managing employee-related data.
 
+## EndPoints Images 
+-![Project Architecture](./1.png)
+-![Project Architecture](./2.png)
+-![Project Architecture](./3.png)
+-![Project Architecture](./4.png)
+
 
 
