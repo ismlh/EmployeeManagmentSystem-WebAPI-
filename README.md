@@ -14,6 +14,10 @@ Projects
 Users & Roles
 This project enhances security, scalability, and efficiency in managing employee-related data.
 
+-Front End Repo :: https://github.com/ismlh/Elsaber-Project-Front 
+
+-Live Preview :: https://elsaper.netlify.app/
+
 ## EndPoints Images 
 -![Project Architecture](./1.png)
 -![Project Architecture](./2.png)
